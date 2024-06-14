@@ -14,7 +14,8 @@ const collectEmployees = function() {
     inputsalary.push (prompt('Enter Employee Salary')) ;
     continue ; 
     }
-    table.tbody.textContent({inputfirstName});
+    table.getElementById("employee-table").textContent=({inputfirstName})
+    console.log
     
   })}
   
