@@ -14,8 +14,7 @@ const collectEmployees = function() {
     inputsalary.push (prompt('Enter Employee Salary')) ;
     continue ; 
     }
-    table.getElementById("employee-table").textContent=({inputfirstName})
-    console.log
+    
     
   })}
   
@@ -92,7 +91,7 @@ const trackEmployeeData = function() {
   getRandomEmployee(employees);
 
   employees.sort(function(a,b) {
-    if (a.lastName < b.lastName) {
+    if (a.inputlastName < b.inputlastName) {
       return -1;
     } else {
       return 1;
