@@ -7,8 +7,12 @@
 
 ## Credits
 I used MDN a lot for my research and some of my Javascript commands
+https://developer.mozilla.org/en-US/
 
 ## Links
 Here is a link to the website!
+https://wesleylocklair.github.io/payroll-tracker/
 
 Here is a screenshot of the website
+![Screenshot (7)](https://github.com/wesleylocklair/payroll-tracker/assets/171185367/4865b26e-59d5-4a9e-b23b-ca00c37910c8)
+
